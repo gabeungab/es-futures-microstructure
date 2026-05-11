@@ -149,7 +149,7 @@ python3 src/plot_signals.py
 ## Working Paper
 
 The final working paper is available at
-[`paper/es-futures-microstructure.pdf`](paper/es-futures-microstructure.pdf).
+[`paper/es_regime_tfi_trades.pdf`](paper/es_regime_tfi_trades.pdf).
 
 ---
 
