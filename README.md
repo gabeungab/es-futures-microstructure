@@ -155,5 +155,5 @@ The final working paper is available at
 
 ## Author
 
-Gabriel Ungab — Georgia Institute of Technology, Mathematics and Computer
-Science, Class of 2029. Targeting quantitative research and trading roles.
+Gabriel Ungab — Georgia Institute of Technology, Mathematics, Class of 2029. 
+Targeting quantitative research and trading roles.

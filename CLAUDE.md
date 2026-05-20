@@ -53,13 +53,13 @@ applications at top firms.
 
 **ALL PHASES COMPLETE. PROJECT FINALIZED.**
 
-Final paper: `paper/es-futures-microstructure.pdf` (27 pages).
+Final paper: `paper/es_regime_tfi_trades.pdf` (27 pages).
 Repository: es-futures-microstructure on GitHub.
 All code polished, all results regenerated, README updated.
 
 Next project: Paper 2 — MBO-based orthogonal regime detector study.
-MBO data purchased: 2025-09-01 to 2025-12-28 (GLBX.MDP3, ~20GB).
-Stored at: ~/Desktop/Quant Research Project/raw-data/mbo/
+MBO data purchased: 2025-09-01 to 2025-12-28 (GLBX.MDP3, ~60GB).
+Stored at: X9 Pro/raw-market-data/es-futures/mbo/
 
 ## Final results summary
 
@@ -108,7 +108,6 @@ Circularity confirmed as explanation.
 ## Project structure
 es-futures-microstructure/
     /data        — data documentation only, no raw files
-    /notebooks   — exploratory Jupyter notebooks (not started)
     /src         — clean reusable Python modules
         data_loader.py         — data loading, cleaning, stats, plotting
         formal_analysis.py     — Phase 4 formal regression pipeline
